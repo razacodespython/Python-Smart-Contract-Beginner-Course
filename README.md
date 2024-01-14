@@ -18,8 +18,8 @@ Web3.py: Web3.py is a Python library for interacting with Ethereum. It is the Py
 In this course each lesson will focus developing smart contracts using Vyper, Ape and web3.py. Step by step we're going to build the skills to become a full fledged blockchain developer using Python.
 
 ### Table of Content
-[Lesson 1](https://github.com/razacodespython/Python-Smart-Contract-Beginner-Course/blob/main/README.md#lesson-1---build-with-vyper--deploy-with-ape)
-[Lesson 2](https://github.com/razacodespython/Python-Smart-Contract-Beginner-Course/blob/main/README.md#lesson-2---simple-storage-level-1-hashmaps--arrays-in-vyper)
+➤ [Lesson 1](https://github.com/razacodespython/Python-Smart-Contract-Beginner-Course/blob/main/README.md#lesson-1---build-with-vyper--deploy-with-ape)
+➤ [Lesson 2](https://github.com/razacodespython/Python-Smart-Contract-Beginner-Course/blob/main/README.md#lesson-2---simple-storage-level-1-hashmaps--arrays-in-vyper)
 
 ## Lesson 1 - Build with Vyper & Deploy with Ape!
 
