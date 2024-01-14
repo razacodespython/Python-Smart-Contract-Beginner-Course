@@ -14,3 +14,18 @@ Ape: Ape is a Python framework for blockchain development. It offers tools and p
 
 Web3.py: Web3.py is a Python library for interacting with Ethereum. It is the Python equivalent of Web3.js, providing a wide array of functionalities to connect with Ethereum nodes, send transactions, interact with smart contracts, and more.
 
+## Course Structure
+In this course each lesson will focus developing smart contracts using Vyper, Ape and web3.py. Step by step we're going to build the skills to become a full fledged blockchain developer using Python.
+
+### Table of Content
+
+
+## Lesson 1 - Build with Vyper & Deploy with Ape!
+
+## Lesson 2 - Simple Storage Level 1, Hashmaps & Arrays in Vyper
+
+## Lesson 3 - Simple Storage Level 2 - Structs
+
+## Lesson 4 - Simple Storage Level 3 - Loops & IFs
+
+## Lesson 5 - Simple Storage Level 4
