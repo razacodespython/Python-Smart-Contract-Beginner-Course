@@ -19,7 +19,7 @@ In this course each lesson will focus developing smart contracts using Vyper, Ap
 
 ### Table of Content
 [Lesson 1](https://github.com/razacodespython/Python-Smart-Contract-Beginner-Course/blob/main/README.md#lesson-1---build-with-vyper--deploy-with-ape)
-
+[Lesson 2](## Lesson 1 - Build with Vyper & Deploy with Ape!)
 
 ## Lesson 1 - Build with Vyper & Deploy with Ape!
 
